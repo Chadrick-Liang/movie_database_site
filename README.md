@@ -16,7 +16,7 @@ Ready to deploy locally or host on any Node-capable server.
 # Movie search page
 ![Screenshot movie search interface](/images/movie_search.png)
 
-#Instructions
+# Instructions
 1. Open MySQL Workbench, log in to the local instance and from the top left corner, File > Run sql script > navigate to 'bed_dvd_db.sql' within the recently unzipped folder > open.
 2. Open visual studio code and open the folder 'frontend'.
 3. From the top left, File > New window > open the folder 'backend'.
