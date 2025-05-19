@@ -10,10 +10,10 @@ Enviro provides a clean, secure interface for both customers and admins:
 
 Ready to deploy locally or host on any Node-capable server.
 
-#Login page
+# Login page
 ![Screenshot of web app login front page](/images/login.png)
 
-#Movie search page
+# Movie search page
 ![Screenshot movie search interface](/images/movie_search.png)
 
 #Instructions
